@@ -1,0 +1,3682 @@
+[
+  {
+    "path": "CSP-J/CSP-JS初赛通用答题纸.pdf",
+    "competition": "CSP-J",
+    "year": null,
+    "stage": null,
+    "title": "CSP JS初赛通用答题纸",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2019/Round1/cspjs2019hj_c.pdf",
+    "competition": "CSP-J",
+    "year": 2019,
+    "stage": "Round1",
+    "title": "cspjs2019hj c",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2019/Round1/cspjs2019hj_cpp.pdf",
+    "competition": "CSP-J",
+    "year": 2019,
+    "stage": "Round1",
+    "title": "cspjs2019hj cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2019/Round1/cspjs2019hj_pas.pdf",
+    "competition": "CSP-J",
+    "year": 2019,
+    "stage": "Round1",
+    "title": "cspjs2019hj pas",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2019/Round1/cspjs2019hj_sol.pdf",
+    "competition": "CSP-J",
+    "year": 2019,
+    "stage": "Round1",
+    "title": "cspjs2019hj sol",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2019/Round2/2019-CCF-CSP-J2.pdf",
+    "competition": "CSP-J",
+    "year": 2019,
+    "stage": "Round2",
+    "title": "2019 CCF CSP J2",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2020/Round1/cspjs2020hj_c.pdf",
+    "competition": "CSP-J",
+    "year": 2020,
+    "stage": "Round1",
+    "title": "cspjs2020hj c",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2020/Round1/cspjs2020hj_cpp.pdf",
+    "competition": "CSP-J",
+    "year": 2020,
+    "stage": "Round1",
+    "title": "cspjs2020hj cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2020/Round1/cspjs2020hj_pas.pdf",
+    "competition": "CSP-J",
+    "year": 2020,
+    "stage": "Round1",
+    "title": "cspjs2020hj pas",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2020/Round1/cspjs2020hj_sol.pdf",
+    "competition": "CSP-J",
+    "year": 2020,
+    "stage": "Round1",
+    "title": "cspjs2020hj sol",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2020/Round2/csp-j2 2020.pdf",
+    "competition": "CSP-J",
+    "year": 2020,
+    "stage": "Round2",
+    "title": "csp j2 2020",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2021/Round1/cspjs2021hj_c.pdf",
+    "competition": "CSP-J",
+    "year": 2021,
+    "stage": "Round1",
+    "title": "cspjs2021hj c",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2021/Round1/cspjs2021hj_cpp.pdf",
+    "competition": "CSP-J",
+    "year": 2021,
+    "stage": "Round1",
+    "title": "cspjs2021hj cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2021/Round1/cspjs2021hj_pas.pdf",
+    "competition": "CSP-J",
+    "year": 2021,
+    "stage": "Round1",
+    "title": "cspjs2021hj pas",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2021/Round1/cspjs2021hj_sol.pdf",
+    "competition": "CSP-J",
+    "year": 2021,
+    "stage": "Round1",
+    "title": "cspjs2021hj sol",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2021/Round2/2021 CSP-J2试题.pdf",
+    "competition": "CSP-J",
+    "year": 2021,
+    "stage": "Round2",
+    "title": "2021 CSP J2试题",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2022/Round1/2022CSPJ1试题.pdf",
+    "competition": "CSP-J",
+    "year": 2022,
+    "stage": "Round1",
+    "title": "2022CSPJ1试题",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2022/Round1/第一轮认证答案-入门级.pdf",
+    "competition": "CSP-J",
+    "year": 2022,
+    "stage": "Round1",
+    "title": "第一轮认证答案 入门级",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2022/Round2/2022 CSP-J2试题.pdf",
+    "competition": "CSP-J",
+    "year": 2022,
+    "stage": "Round2",
+    "title": "2022 CSP J2试题",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2023/Round1/2023-CSP-J1答案(无解析).pdf",
+    "competition": "CSP-J",
+    "year": 2023,
+    "stage": "Round1",
+    "title": "2023 CSP J1答案(无解析)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2023/Round1/[全国卷]CSP-J1-2023.pdf",
+    "competition": "CSP-J",
+    "year": 2023,
+    "stage": "Round1",
+    "title": "[全国卷]CSP J1 2023",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2023/Round2/CSP-J2-2023.pdf",
+    "competition": "CSP-J",
+    "year": 2023,
+    "stage": "Round2",
+    "title": "CSP J2 2023",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2024/Round1/CSP-J1 2024.pdf",
+    "competition": "CSP-J",
+    "year": 2024,
+    "stage": "Round1",
+    "title": "CSP J1 2024",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-J/2024/Round2/CSP-J2-2024.pdf",
+    "competition": "CSP-J",
+    "year": 2024,
+    "stage": "Round2",
+    "title": "CSP J2 2024",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/CSP-JS初赛通用答题纸.pdf",
+    "competition": "CSP-S",
+    "year": null,
+    "stage": null,
+    "title": "CSP JS初赛通用答题纸",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2019/Round1/cspjs2019hs_c.pdf",
+    "competition": "CSP-S",
+    "year": 2019,
+    "stage": "Round1",
+    "title": "cspjs2019hs c",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2019/Round1/cspjs2019hs_cpp.pdf",
+    "competition": "CSP-S",
+    "year": 2019,
+    "stage": "Round1",
+    "title": "cspjs2019hs cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2019/Round1/cspjs2019hs_pas.pdf",
+    "competition": "CSP-S",
+    "year": 2019,
+    "stage": "Round1",
+    "title": "cspjs2019hs pas",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2019/Round1/cspjs2019hs_sol.pdf",
+    "competition": "CSP-S",
+    "year": 2019,
+    "stage": "Round1",
+    "title": "cspjs2019hs sol",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2019/Round2/2019-CCF-CSP-S2-day1.pdf",
+    "competition": "CSP-S",
+    "year": 2019,
+    "stage": "Round2",
+    "title": "2019 CCF CSP S2 day1",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2019/Round2/2019-CCF-CSP-S2-day2.pdf",
+    "competition": "CSP-S",
+    "year": 2019,
+    "stage": "Round2",
+    "title": "2019 CCF CSP S2 day2",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2020/Round1/cspjs2020hs_c.pdf",
+    "competition": "CSP-S",
+    "year": 2020,
+    "stage": "Round1",
+    "title": "cspjs2020hs c",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2020/Round1/cspjs2020hs_cpp.pdf",
+    "competition": "CSP-S",
+    "year": 2020,
+    "stage": "Round1",
+    "title": "cspjs2020hs cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2020/Round1/cspjs2020hs_pas.pdf",
+    "competition": "CSP-S",
+    "year": 2020,
+    "stage": "Round1",
+    "title": "cspjs2020hs pas",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2020/Round1/cspjs2020hs_sol.pdf",
+    "competition": "CSP-S",
+    "year": 2020,
+    "stage": "Round1",
+    "title": "cspjs2020hs sol",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2020/Round2/csp-s2 2020.pdf",
+    "competition": "CSP-S",
+    "year": 2020,
+    "stage": "Round2",
+    "title": "csp s2 2020",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2021/Round1/2021CSP-S1试题(C++).pdf",
+    "competition": "CSP-S",
+    "year": 2021,
+    "stage": "Round1",
+    "title": "2021CSP S1试题(C++)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2021/Round1/2021CSP-S1试题及参考答案.pdf",
+    "competition": "CSP-S",
+    "year": 2021,
+    "stage": "Round1",
+    "title": "2021CSP S1试题及参考答案",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2021/Round2/2021CSP-S2试题.pdf",
+    "competition": "CSP-S",
+    "year": 2021,
+    "stage": "Round2",
+    "title": "2021CSP S2试题",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2022/Round1/2022CSP-S1试题.pdf",
+    "competition": "CSP-S",
+    "year": 2022,
+    "stage": "Round1",
+    "title": "2022CSP S1试题",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2022/Round1/2022SCP-S1答案.pdf",
+    "competition": "CSP-S",
+    "year": 2022,
+    "stage": "Round1",
+    "title": "2022SCP S1答案",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2022/Round2/2022 CSP-S2.pdf",
+    "competition": "CSP-S",
+    "year": 2022,
+    "stage": "Round2",
+    "title": "2022 CSP S2",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2023/Round1/2023-CSP-S1答案.pdf",
+    "competition": "CSP-S",
+    "year": 2023,
+    "stage": "Round1",
+    "title": "2023 CSP S1答案",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2023/Round1/CSP-S 2023 扫描版(无水印).pdf",
+    "competition": "CSP-S",
+    "year": 2023,
+    "stage": "Round1",
+    "title": "CSP S 2023 扫描版(无水印)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2023/Round2/2023-CCF-CSP-S2.pdf",
+    "competition": "CSP-S",
+    "year": 2023,
+    "stage": "Round2",
+    "title": "2023 CCF CSP S2",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2024/Round 1/CSP-S 2024.pdf",
+    "competition": "CSP-S",
+    "year": 2024,
+    "stage": "Round 1",
+    "title": "CSP S 2024",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-S/2024/Round2/CSP-S2-2024.pdf",
+    "competition": "CSP-S",
+    "year": 2024,
+    "stage": "Round2",
+    "title": "CSP S2 2024",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2015/Round2/CSP-X2015山东省小学组二轮试题(上半场).pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2015,
+    "stage": "Round2",
+    "title": "CSP X2015山东省小学组二轮试题(上半场)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2015/Round2/CSP-X2015山东省小学组二轮试题(下半场).pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2015,
+    "stage": "Round2",
+    "title": "CSP X2015山东省小学组二轮试题(下半场)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2018/Round2/CSP-X2018山东省小学组二轮试题(上半场).pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2018,
+    "stage": "Round2",
+    "title": "CSP X2018山东省小学组二轮试题(上半场)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2018/Round2/CSP-X2018山东省小学组二轮试题(下半场).pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2018,
+    "stage": "Round2",
+    "title": "CSP X2018山东省小学组二轮试题(下半场)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2019/Round2/CSP-X2019山东省小学组二轮试题(上半场).pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2019,
+    "stage": "Round2",
+    "title": "CSP X2019山东省小学组二轮试题(上半场)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2019/Round2/CSP-X2019山东省小学组二轮试题(下半场).pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2019,
+    "stage": "Round2",
+    "title": "CSP X2019山东省小学组二轮试题(下半场)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2020/Round2/CSP-X2020山东省小学组二轮试题(上半场).pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2020,
+    "stage": "Round2",
+    "title": "CSP X2020山东省小学组二轮试题(上半场)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2020/Round2/CSP-X2020山东省小学组二轮试题(下半场).pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2020,
+    "stage": "Round2",
+    "title": "CSP X2020山东省小学组二轮试题(下半场)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2021/Round2/CSP-X2021二轮认证山东小学组试题（上半场).pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2021,
+    "stage": "Round2",
+    "title": "CSP X2021二轮认证山东小学组试题（上半场)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2021/Round2/CSP-X2021二轮认证山东小学组试题（下半场).pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2021,
+    "stage": "Round2",
+    "title": "CSP X2021二轮认证山东小学组试题（下半场)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2022/Round2/CSP-X2022山东省小学组二轮补赛试题（上半场）.pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2022,
+    "stage": "Round2",
+    "title": "CSP X2022山东省小学组二轮补赛试题（上半场）",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2022/Round2/CSP-X2022山东省小学组二轮补赛试题（下半场）.pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2022,
+    "stage": "Round2",
+    "title": "CSP X2022山东省小学组二轮补赛试题（下半场）",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2023/Round1/2023CSP-X1试题及参考答案.pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2023,
+    "stage": "Round1",
+    "title": "2023CSP X1试题及参考答案",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2023/Round2/CSP-X2023二轮认证山东小学组试题（上半场).pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2023,
+    "stage": "Round2",
+    "title": "CSP X2023二轮认证山东小学组试题（上半场)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2023/Round2/CSP-X2023二轮认证山东小学组试题（下半场).pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2023,
+    "stage": "Round2",
+    "title": "CSP X2023二轮认证山东小学组试题（下半场)",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2024/Round1/CSP-X2024小学组一轮试题答案.pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2024,
+    "stage": "Round1",
+    "title": "CSP X2024小学组一轮试题答案",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2024/Round1/CSP-X2024小学组一轮试题（山东）.pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2024,
+    "stage": "Round1",
+    "title": "CSP X2024小学组一轮试题（山东）",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2024/Round2/CSP-X2024山东小学组（上半场）.pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2024,
+    "stage": "Round2",
+    "title": "CSP X2024山东小学组（上半场）",
+    "format": "pdf"
+  },
+  {
+    "path": "CSP-X(山东)/2024/Round2/CSP-X2024山东小学组（下半场）.pdf",
+    "competition": "CSP-X(山东)",
+    "year": 2024,
+    "stage": "Round2",
+    "title": "CSP X2024山东小学组（下半场）",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi1994/Ioi94-1.doc",
+    "competition": "IOI",
+    "year": 1994,
+    "stage": null,
+    "title": "Ioi94 1",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1994/Ioi94-2.doc",
+    "competition": "IOI",
+    "year": 1994,
+    "stage": null,
+    "title": "Ioi94 2",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1994/Ioi94-3.doc",
+    "competition": "IOI",
+    "year": 1994,
+    "stage": null,
+    "title": "Ioi94 3",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1994/Ioi94-4.doc",
+    "competition": "IOI",
+    "year": 1994,
+    "stage": null,
+    "title": "Ioi94 4",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1994/Ioi94-5.doc",
+    "competition": "IOI",
+    "year": 1994,
+    "stage": null,
+    "title": "Ioi94 5",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1994/Ioi94-6.doc",
+    "competition": "IOI",
+    "year": 1994,
+    "stage": null,
+    "title": "Ioi94 6",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1995/Ioi95-1.doc",
+    "competition": "IOI",
+    "year": 1995,
+    "stage": null,
+    "title": "Ioi95 1",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1995/Ioi95-2.doc",
+    "competition": "IOI",
+    "year": 1995,
+    "stage": null,
+    "title": "Ioi95 2",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1995/Ioi95-3.doc",
+    "competition": "IOI",
+    "year": 1995,
+    "stage": null,
+    "title": "Ioi95 3",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1995/Ioi95-4.doc",
+    "competition": "IOI",
+    "year": 1995,
+    "stage": null,
+    "title": "Ioi95 4",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1995/Ioi95-5.doc",
+    "competition": "IOI",
+    "year": 1995,
+    "stage": null,
+    "title": "Ioi95 5",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1995/Ioi95-6.doc",
+    "competition": "IOI",
+    "year": 1995,
+    "stage": null,
+    "title": "Ioi95 6",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1996/chinese/Ioi96-1.doc",
+    "competition": "IOI",
+    "year": 1996,
+    "stage": "chinese",
+    "title": "Ioi96 1",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1996/chinese/Ioi96-2.doc",
+    "competition": "IOI",
+    "year": 1996,
+    "stage": "chinese",
+    "title": "Ioi96 2",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1996/chinese/Ioi96-3.doc",
+    "competition": "IOI",
+    "year": 1996,
+    "stage": "chinese",
+    "title": "Ioi96 3",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1996/chinese/Ioi96-4.doc",
+    "competition": "IOI",
+    "year": 1996,
+    "stage": "chinese",
+    "title": "Ioi96 4",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1996/chinese/Ioi96-5.doc",
+    "competition": "IOI",
+    "year": 1996,
+    "stage": "chinese",
+    "title": "Ioi96 5",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1996/chinese/Ioi96-6.doc",
+    "competition": "IOI",
+    "year": 1996,
+    "stage": "chinese",
+    "title": "Ioi96 6",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1996/day1/IOI96G.DOC",
+    "competition": "IOI",
+    "year": 1996,
+    "stage": "day1",
+    "title": "IOI96G",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1996/day1/IOI96J.DOC",
+    "competition": "IOI",
+    "year": 1996,
+    "stage": "day1",
+    "title": "IOI96J",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1996/day1/IOI96N.DOC",
+    "competition": "IOI",
+    "year": 1996,
+    "stage": "day1",
+    "title": "IOI96N",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1996/day2/IOI96M.DOC",
+    "competition": "IOI",
+    "year": 1996,
+    "stage": "day2",
+    "title": "IOI96M",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1996/day2/IOI96P.DOC",
+    "competition": "IOI",
+    "year": 1996,
+    "stage": "day2",
+    "title": "IOI96P",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1996/day2/IOI96S.DOC",
+    "competition": "IOI",
+    "year": 1996,
+    "stage": "day2",
+    "title": "IOI96S",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1997/ioi97_day1.pdf",
+    "competition": "IOI",
+    "year": 1997,
+    "stage": null,
+    "title": "ioi97 day1",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi1997/ioi97_day2.pdf",
+    "competition": "IOI",
+    "year": 1997,
+    "stage": null,
+    "title": "ioi97 day2",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi1998/camelot.pdf",
+    "competition": "IOI",
+    "year": 1998,
+    "stage": null,
+    "title": "camelot",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi1998/contact.pdf",
+    "competition": "IOI",
+    "year": 1998,
+    "stage": null,
+    "title": "contact",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi1998/party.pdf",
+    "competition": "IOI",
+    "year": 1998,
+    "stage": null,
+    "title": "party",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi1998/picture.pdf",
+    "competition": "IOI",
+    "year": 1998,
+    "stage": null,
+    "title": "picture",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi1998/polygon.pdf",
+    "competition": "IOI",
+    "year": 1998,
+    "stage": null,
+    "title": "polygon",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi1998/starry.pdf",
+    "competition": "IOI",
+    "year": 1998,
+    "stage": null,
+    "title": "starry",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi1999/Day1/codes.doc",
+    "competition": "IOI",
+    "year": 1999,
+    "stage": "Day1",
+    "title": "codes",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1999/Day1/flower.doc",
+    "competition": "IOI",
+    "year": 1999,
+    "stage": "Day1",
+    "title": "flower",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1999/Day1/under.doc",
+    "competition": "IOI",
+    "year": 1999,
+    "stage": "Day1",
+    "title": "under",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1999/Day2/flat.doc",
+    "competition": "IOI",
+    "year": 1999,
+    "stage": "Day2",
+    "title": "flat",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1999/Day2/land.doc",
+    "competition": "IOI",
+    "year": 1999,
+    "stage": "Day2",
+    "title": "land",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi1999/Day2/lights.doc",
+    "competition": "IOI",
+    "year": 1999,
+    "stage": "Day2",
+    "title": "lights",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi2000/1-1.pdf",
+    "competition": "IOI",
+    "year": 2000,
+    "stage": null,
+    "title": "1 1",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2000/1-2.pdf",
+    "competition": "IOI",
+    "year": 2000,
+    "stage": null,
+    "title": "1 2",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2000/1-3.pdf",
+    "competition": "IOI",
+    "year": 2000,
+    "stage": null,
+    "title": "1 3",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2000/1-4.pdf",
+    "competition": "IOI",
+    "year": 2000,
+    "stage": null,
+    "title": "1 4",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2000/1-5.pdf",
+    "competition": "IOI",
+    "year": 2000,
+    "stage": null,
+    "title": "1 5",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2000/2-1.pdf",
+    "competition": "IOI",
+    "year": 2000,
+    "stage": null,
+    "title": "2 1",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2000/2-2.pdf",
+    "competition": "IOI",
+    "year": 2000,
+    "stage": null,
+    "title": "2 2",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2000/2-3.pdf",
+    "competition": "IOI",
+    "year": 2000,
+    "stage": null,
+    "title": "2 3",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2000/day2msg.pdf",
+    "competition": "IOI",
+    "year": 2000,
+    "stage": null,
+    "title": "day2msg",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2000/day2overview.pdf",
+    "competition": "IOI",
+    "year": 2000,
+    "stage": null,
+    "title": "day2overview",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2001/A-2001-7.pdf",
+    "competition": "IOI",
+    "year": 2001,
+    "stage": null,
+    "title": "A 2001 7",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2002/day0/day0material/ContestSystemManual.pdf",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day0/day0material",
+    "title": "ContestSystemManual",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2002/day0/day0material/Overview0.pdf",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day0/day0material",
+    "title": "Overview0",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2002/day0/day0material/PracticeCompetitionInstructions.pdf",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day0/day0material",
+    "title": "PracticeCompetitionInstructions",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2002/day0/day0material/UserManual.pdf",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day0/day0material",
+    "title": "UserManual",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2002/day0/day0material/number.pdf",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day0/day0material",
+    "title": "number",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2002/day0/day0material/red.pdf",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day0/day0material",
+    "title": "red",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2002/day0/day0material/string.pdf",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day0/day0material",
+    "title": "string",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2002/day1/IOI-Frog-verD.doc",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day1",
+    "title": "IOI Frog verD",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi2002/day1/IOI-Utopia-verE.doc",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day1",
+    "title": "IOI Utopia verE",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi2002/day1/IOI-XOR-verB.doc",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day1",
+    "title": "IOI XOR verB",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi2002/day2/IOI-Batch-verB.doc",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day2",
+    "title": "IOI Batch verB",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi2002/day2/IOI-Bus-verB.doc",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day2",
+    "title": "IOI Bus verB",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi2002/day2/IOI-Rods-verD.doc",
+    "competition": "IOI",
+    "year": 2002,
+    "stage": "day2",
+    "title": "IOI Rods verD",
+    "format": "doc"
+  },
+  {
+    "path": "IOI/ioi2022/day1-A-fish-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2022,
+    "stage": null,
+    "title": "day1 A fish zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2022/day1-B-prison-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2022,
+    "stage": null,
+    "title": "day1 B prison zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2022/day1-C-towers-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2022,
+    "stage": null,
+    "title": "day1 C towers zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2022/day1-notice-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2022,
+    "stage": null,
+    "title": "day1 notice zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2022/day2-A-circuit-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2022,
+    "stage": null,
+    "title": "day2 A circuit zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2022/day2-B-insects-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2022,
+    "stage": null,
+    "title": "day2 B insects zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2022/day2-C-islands-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2022,
+    "stage": null,
+    "title": "day2 C islands zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2022/day2-notice-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2022,
+    "stage": null,
+    "title": "day2 notice zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2023/day1-A-closing-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2023,
+    "stage": null,
+    "title": "day1 A closing zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2023/day1-B-longesttrip-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2023,
+    "stage": null,
+    "title": "day1 B longesttrip zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2023/day1-C-soccer-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2023,
+    "stage": null,
+    "title": "day1 C soccer zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2023/day1-notice-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2023,
+    "stage": null,
+    "title": "day1 notice zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2023/day2-A-beechtree-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2023,
+    "stage": null,
+    "title": "day2 A beechtree zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2023/day2-B-overtaking-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2023,
+    "stage": null,
+    "title": "day2 B overtaking zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2023/day2-C-robot-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2023,
+    "stage": null,
+    "title": "day2 C robot zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2023/day2-notice-zh_CN.pdf",
+    "competition": "IOI",
+    "year": 2023,
+    "stage": null,
+    "title": "day2 notice zh CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2024/day1-A-nile-zh_Hans_CN.pdf",
+    "competition": "IOI",
+    "year": 2024,
+    "stage": null,
+    "title": "day1 A nile zh Hans CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2024/day1-B-messages-zh_Hans_CN.pdf",
+    "competition": "IOI",
+    "year": 2024,
+    "stage": null,
+    "title": "day1 B messages zh Hans CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2024/day1-C-tree-zh_Hans_CN.pdf",
+    "competition": "IOI",
+    "year": 2024,
+    "stage": null,
+    "title": "day1 C tree zh Hans CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2024/day2-A-hieroglyphs-zh_Hans_CN.pdf",
+    "competition": "IOI",
+    "year": 2024,
+    "stage": null,
+    "title": "day2 A hieroglyphs zh Hans CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2024/day2-B-mosaic-zh_Hans_CN.pdf",
+    "competition": "IOI",
+    "year": 2024,
+    "stage": null,
+    "title": "day2 B mosaic zh Hans CN",
+    "format": "pdf"
+  },
+  {
+    "path": "IOI/ioi2024/day2-C-sphinx-zh_Hans_CN.pdf",
+    "competition": "IOI",
+    "year": 2024,
+    "stage": null,
+    "title": "day2 C sphinx zh Hans CN",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/1991/noi91.doc",
+    "competition": "NOI",
+    "year": 1991,
+    "stage": null,
+    "title": "noi91",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/1992/noi92.doc",
+    "competition": "NOI",
+    "year": 1992,
+    "stage": null,
+    "title": "noi92",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/1993/noi93.doc",
+    "competition": "NOI",
+    "year": 1993,
+    "stage": null,
+    "title": "noi93",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/1996/NOI96.doc",
+    "competition": "NOI",
+    "year": 1996,
+    "stage": null,
+    "title": "NOI96",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/1997/noi97-1.doc",
+    "competition": "NOI",
+    "year": 1997,
+    "stage": null,
+    "title": "noi97 1",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/1997/noi97-2.doc",
+    "competition": "NOI",
+    "year": 1997,
+    "stage": null,
+    "title": "noi97 2",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/1998/noi98-1.doc",
+    "competition": "NOI",
+    "year": 1998,
+    "stage": null,
+    "title": "noi98 1",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/1998/noi98-2.doc",
+    "competition": "NOI",
+    "year": 1998,
+    "stage": null,
+    "title": "noi98 2",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/1999/noi99-1.doc",
+    "competition": "NOI",
+    "year": 1999,
+    "stage": null,
+    "title": "noi99 1",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/1999/noi99-2.doc",
+    "competition": "NOI",
+    "year": 1999,
+    "stage": null,
+    "title": "noi99 2",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2000/day1.doc",
+    "competition": "NOI",
+    "year": 2000,
+    "stage": null,
+    "title": "day1",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2000/day2.doc",
+    "competition": "NOI",
+    "year": 2000,
+    "stage": null,
+    "title": "day2",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2001/day1/Problem/arctan.doc",
+    "competition": "NOI",
+    "year": 2001,
+    "stage": "day1/Problem",
+    "title": "arctan",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2001/day1/Problem/clever.doc",
+    "competition": "NOI",
+    "year": 2001,
+    "stage": "day1/Problem",
+    "title": "clever",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2001/day1/Problem/day1-overview.doc",
+    "competition": "NOI",
+    "year": 2001,
+    "stage": "day1/Problem",
+    "title": "day1 overview",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2001/day1/Problem/eat.doc",
+    "competition": "NOI",
+    "year": 2001,
+    "stage": "day1/Problem",
+    "title": "eat",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2001/day2/Problem/cannon.doc",
+    "competition": "NOI",
+    "year": 2001,
+    "stage": "day2/Problem",
+    "title": "cannon",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2001/day2/Problem/day2-overview.doc",
+    "competition": "NOI",
+    "year": 2001,
+    "stage": "day2/Problem",
+    "title": "day2 overview",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2001/day2/Problem/equation.doc",
+    "competition": "NOI",
+    "year": 2001,
+    "stage": "day2/Problem",
+    "title": "equation",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2001/day2/Problem/secret.doc",
+    "competition": "NOI",
+    "year": 2001,
+    "stage": "day2/Problem",
+    "title": "secret",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/NOI2002笔试题.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": null,
+    "title": "NOI2002笔试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/day0/Day0-Overview.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": "day0",
+    "title": "Day0 Overview",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/day0/comp.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": "day0",
+    "title": "comp",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/day0/nose.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": "day0",
+    "title": "nose",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/day0/triple.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": "day0",
+    "title": "triple",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/day1/Day1-Overview.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": "day1",
+    "title": "Day1 Overview",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/day1/child.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": "day1",
+    "title": "child",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/day1/dragon.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": "day1",
+    "title": "dragon",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/day1/galaxy.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": "day1",
+    "title": "galaxy",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/day2/Day2-Overview.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": "day2",
+    "title": "Day2 Overview",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/day2/robot.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": "day2",
+    "title": "robot",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/day2/savage.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": "day2",
+    "title": "savage",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2002/day2/tetris.doc",
+    "competition": "NOI",
+    "year": 2002,
+    "stage": "day2",
+    "title": "tetris",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2003/day1.doc",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": null,
+    "title": "day1",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2003/day2.doc",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": null,
+    "title": "day2",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2003/day0/chingwei.doc",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day0",
+    "title": "chingwei",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2003/day0/jerry.doc",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day0",
+    "title": "jerry",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2003/day1/detect.doc",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day1",
+    "title": "detect",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2003/day1/detect.pdf",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day1",
+    "title": "detect",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2003/day1/editor.doc",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day1",
+    "title": "editor",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2003/day1/editor.pdf",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day1",
+    "title": "editor",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2003/day1/game.doc",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day1",
+    "title": "game",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2003/day1/game.pdf",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day1",
+    "title": "game",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2003/day2/Hookey.pdf",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day2",
+    "title": "Hookey",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2003/day2/Hookey.doc",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day2",
+    "title": "Hookey",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2003/day2/berry.doc",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day2",
+    "title": "berry",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2003/day2/berry.pdf",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day2",
+    "title": "berry",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2003/day2/zplhz.doc",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day2",
+    "title": "zplhz",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2003/day2/zplhz.pdf",
+    "competition": "NOI",
+    "year": 2003,
+    "stage": "day2",
+    "title": "zplhz",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2004/day0/task/Day0-Overview.pdf",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day0/task",
+    "title": "Day0 Overview",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2004/day0/task/Day0-Overview.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day0/task",
+    "title": "Day0 Overview",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/day0/task/Day0-huihui.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day0/task",
+    "title": "Day0 huihui",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/day0/task/Day0-huihui.pdf",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day0/task",
+    "title": "Day0 huihui",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2004/day0/task/Day0-jiajia.pdf",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day0/task",
+    "title": "Day0 jiajia",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2004/day0/task/Day0-jiajia.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day0/task",
+    "title": "Day0 jiajia",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/day0/task/Day0-shanshan.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day0/task",
+    "title": "Day0 shanshan",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/day0/task/Day0-shanshan.pdf",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day0/task",
+    "title": "Day0 shanshan",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2004/day1/task/cashier.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day1/task",
+    "title": "cashier",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/day1/task/dune.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day1/task",
+    "title": "dune",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/day1/task/manhattan.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day1/task",
+    "title": "manhattan",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/day1/task/overview.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day1/task",
+    "title": "overview",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/day2/task/graduate.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day2/task",
+    "title": "graduate",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/day2/task/hut.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day2/task",
+    "title": "hut",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/day2/task/overview.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day2/task",
+    "title": "overview",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/day2/task/rainfall.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "day2/task",
+    "title": "rainfall",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/paper/NOI2004.doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "paper",
+    "title": "NOI2004",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2004/paper/NOI2004(ans).doc",
+    "competition": "NOI",
+    "year": 2004,
+    "stage": "paper",
+    "title": "NOI2004(ans)",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2005/noi2005A.pdf",
+    "competition": "NOI",
+    "year": 2005,
+    "stage": null,
+    "title": "noi2005A",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2005/noi2005B.pdf",
+    "competition": "NOI",
+    "year": 2005,
+    "stage": null,
+    "title": "noi2005B",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2005/noi2005bishiti.pdf",
+    "competition": "NOI",
+    "year": 2005,
+    "stage": null,
+    "title": "noi2005bishiti",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2006/noi2006A.pdf",
+    "competition": "NOI",
+    "year": 2006,
+    "stage": null,
+    "title": "noi2006A",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2006/noi2006B.pdf",
+    "competition": "NOI",
+    "year": 2006,
+    "stage": null,
+    "title": "noi2006B",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2007/noi2007A.pdf",
+    "competition": "NOI",
+    "year": 2007,
+    "stage": null,
+    "title": "noi2007A",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2007/noi2007B.pdf",
+    "competition": "NOI",
+    "year": 2007,
+    "stage": null,
+    "title": "noi2007B",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2008/noi2008A.pdf",
+    "competition": "NOI",
+    "year": 2008,
+    "stage": null,
+    "title": "noi2008A",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2008/noi2008B.pdf",
+    "competition": "NOI",
+    "year": 2008,
+    "stage": null,
+    "title": "noi2008B",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2009/noi2009A.doc",
+    "competition": "NOI",
+    "year": 2009,
+    "stage": null,
+    "title": "noi2009A",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2009/noi2009B.doc",
+    "competition": "NOI",
+    "year": 2009,
+    "stage": null,
+    "title": "noi2009B",
+    "format": "doc"
+  },
+  {
+    "path": "NOI/2022/noi-2022-day1.pdf",
+    "competition": "NOI",
+    "year": 2022,
+    "stage": null,
+    "title": "noi 2022 day1",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2022/noi-2022-day2.pdf",
+    "competition": "NOI",
+    "year": 2022,
+    "stage": null,
+    "title": "noi 2022 day2",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2023/noi-2023-day1.pdf",
+    "competition": "NOI",
+    "year": 2023,
+    "stage": null,
+    "title": "noi 2023 day1",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2023/noi-2023-day2.pdf",
+    "competition": "NOI",
+    "year": 2023,
+    "stage": null,
+    "title": "noi 2023 day2",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2024/noi-2024-day1.pdf",
+    "competition": "NOI",
+    "year": 2024,
+    "stage": null,
+    "title": "noi 2024 day1",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2024/noi-2024-day2.pdf",
+    "competition": "NOI",
+    "year": 2024,
+    "stage": null,
+    "title": "noi 2024 day2",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2025/NOI2025笔试题库.pdf",
+    "competition": "NOI",
+    "year": 2025,
+    "stage": null,
+    "title": "NOI2025笔试题库",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2025/day1.pdf",
+    "competition": "NOI",
+    "year": 2025,
+    "stage": null,
+    "title": "day1",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI/2025/day2.pdf",
+    "competition": "NOI",
+    "year": 2025,
+    "stage": null,
+    "title": "day2",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/1995/JuniorPreliminaryAnswer.doc",
+    "competition": "NOIP",
+    "year": 1995,
+    "stage": null,
+    "title": "JuniorPreliminaryAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1995/JuniorPreliminaryTestPaper.doc",
+    "competition": "NOIP",
+    "year": 1995,
+    "stage": null,
+    "title": "JuniorPreliminaryTestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1995/NOIP1995PreliminaryJunior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 1995,
+    "stage": null,
+    "title": "NOIP1995PreliminaryJunior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1995/NOIP1995PreliminarySenior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 1995,
+    "stage": null,
+    "title": "NOIP1995PreliminarySenior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP1995/NOIP1995提高组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 1995,
+    "stage": null,
+    "title": "NOIP1995提高组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP1995/NOIP1995提高组数据.doc",
+    "competition": "NOIP",
+    "year": 1995,
+    "stage": null,
+    "title": "NOIP1995提高组数据",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP1995/NOIP1995普及组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 1995,
+    "stage": null,
+    "title": "NOIP1995普及组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP1995/NOIP1995普及组数据.doc",
+    "competition": "NOIP",
+    "year": 1995,
+    "stage": null,
+    "title": "NOIP1995普及组数据",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1995/PreliminarySeniorTestPaper.doc",
+    "competition": "NOIP",
+    "year": 1995,
+    "stage": null,
+    "title": "PreliminarySeniorTestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1995/SeniorPreliminaryAnswer.doc",
+    "competition": "NOIP",
+    "year": 1995,
+    "stage": null,
+    "title": "SeniorPreliminaryAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1996/NOIP1996PreliminaryJunior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 1996,
+    "stage": null,
+    "title": "NOIP1996PreliminaryJunior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1996/NOIP1996PreliminarySenior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 1996,
+    "stage": null,
+    "title": "NOIP1996PreliminarySenior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP1996/NOIP1996提高组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 1996,
+    "stage": null,
+    "title": "NOIP1996提高组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP1996/NOIP1996普及组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 1996,
+    "stage": null,
+    "title": "NOIP1996普及组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1996/PreliminaryJunior(Basic)TestPaper.doc",
+    "competition": "NOIP",
+    "year": 1996,
+    "stage": null,
+    "title": "PreliminaryJunior(Basic)TestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1996/PreliminaryJunior(Pascal)TestPaper.doc",
+    "competition": "NOIP",
+    "year": 1996,
+    "stage": null,
+    "title": "PreliminaryJunior(Pascal)TestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1996/PreliminaryJuniorAnswer.doc",
+    "competition": "NOIP",
+    "year": 1996,
+    "stage": null,
+    "title": "PreliminaryJuniorAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1996/PreliminarySeniorAnswer.doc",
+    "competition": "NOIP",
+    "year": 1996,
+    "stage": null,
+    "title": "PreliminarySeniorAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1996/PreliminarySeniorTestPaper.doc",
+    "competition": "NOIP",
+    "year": 1996,
+    "stage": null,
+    "title": "PreliminarySeniorTestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1997/NOIP1997PreliminaryJunior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 1997,
+    "stage": null,
+    "title": "NOIP1997PreliminaryJunior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1997/NOIP1997PreliminarySenior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 1997,
+    "stage": null,
+    "title": "NOIP1997PreliminarySenior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP1997/NOIP1997提高组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 1997,
+    "stage": null,
+    "title": "NOIP1997提高组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP1997/NOIP1997普及组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 1997,
+    "stage": null,
+    "title": "NOIP1997普及组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1997/PreliminaryJuniorAnswer.doc",
+    "competition": "NOIP",
+    "year": 1997,
+    "stage": null,
+    "title": "PreliminaryJuniorAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1997/PreliminaryJuniorTestPaper.doc",
+    "competition": "NOIP",
+    "year": 1997,
+    "stage": null,
+    "title": "PreliminaryJuniorTestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1997/PreliminarySeniorAnswer.doc",
+    "competition": "NOIP",
+    "year": 1997,
+    "stage": null,
+    "title": "PreliminarySeniorAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1997/PreliminarySeniorTestPaper.doc",
+    "competition": "NOIP",
+    "year": 1997,
+    "stage": null,
+    "title": "PreliminarySeniorTestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1998/NOIP1998PreliminaryJunior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 1998,
+    "stage": null,
+    "title": "NOIP1998PreliminaryJunior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1998/NOIP1998PreliminarySenior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 1998,
+    "stage": null,
+    "title": "NOIP1998PreliminarySenior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP1998/NOIP1998提高组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 1998,
+    "stage": null,
+    "title": "NOIP1998提高组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP1998/NOIP1998普及组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 1998,
+    "stage": null,
+    "title": "NOIP1998普及组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1998/PreliminaryJuniorAnswer.doc",
+    "competition": "NOIP",
+    "year": 1998,
+    "stage": null,
+    "title": "PreliminaryJuniorAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1998/PreliminaryJuniorTestPaper.doc",
+    "competition": "NOIP",
+    "year": 1998,
+    "stage": null,
+    "title": "PreliminaryJuniorTestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1998/PreliminarySeniorAnswer.doc",
+    "competition": "NOIP",
+    "year": 1998,
+    "stage": null,
+    "title": "PreliminarySeniorAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1998/PreliminarySeniorTestPaper.doc",
+    "competition": "NOIP",
+    "year": 1998,
+    "stage": null,
+    "title": "PreliminarySeniorTestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1999/NOIP1999PreliminaryJunior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 1999,
+    "stage": null,
+    "title": "NOIP1999PreliminaryJunior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1999/NOIP1999PreliminarySenior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 1999,
+    "stage": null,
+    "title": "NOIP1999PreliminarySenior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP1999/NOIP1999提高组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 1999,
+    "stage": null,
+    "title": "NOIP1999提高组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP1999/NOIP1999普及组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 1999,
+    "stage": null,
+    "title": "NOIP1999普及组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1999/PreliminaryJuniorAnswer.doc",
+    "competition": "NOIP",
+    "year": 1999,
+    "stage": null,
+    "title": "PreliminaryJuniorAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1999/PreliminaryJuniorTestPaper.doc",
+    "competition": "NOIP",
+    "year": 1999,
+    "stage": null,
+    "title": "PreliminaryJuniorTestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1999/PreliminarySeniorAnswer.doc",
+    "competition": "NOIP",
+    "year": 1999,
+    "stage": null,
+    "title": "PreliminarySeniorAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/1999/PreliminarySeniorTestPaper.doc",
+    "competition": "NOIP",
+    "year": 1999,
+    "stage": null,
+    "title": "PreliminarySeniorTestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2000/NOIP2000PreliminaryJunior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2000,
+    "stage": null,
+    "title": "NOIP2000PreliminaryJunior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2000/NOIP2000PreliminarySenior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2000,
+    "stage": null,
+    "title": "NOIP2000PreliminarySenior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2000/NOIP2000提高组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 2000,
+    "stage": null,
+    "title": "NOIP2000提高组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2000/NOIP2000普及组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 2000,
+    "stage": null,
+    "title": "NOIP2000普及组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2000/PreliminaryJuniorAnswer.doc",
+    "competition": "NOIP",
+    "year": 2000,
+    "stage": null,
+    "title": "PreliminaryJuniorAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2000/PreliminaryJuniorTestPaper.doc",
+    "competition": "NOIP",
+    "year": 2000,
+    "stage": null,
+    "title": "PreliminaryJuniorTestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2000/PreliminarySeniorAnswer.doc",
+    "competition": "NOIP",
+    "year": 2000,
+    "stage": null,
+    "title": "PreliminarySeniorAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2000/PreliminarySeniorTestPaper.doc",
+    "competition": "NOIP",
+    "year": 2000,
+    "stage": null,
+    "title": "PreliminarySeniorTestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2001/NOIP2001提高组初赛(Basic).pdf",
+    "competition": "NOIP",
+    "year": 2001,
+    "stage": null,
+    "title": "NOIP2001提高组初赛(Basic)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2001/NOIP2001提高组初赛(Pascal)及参考答案.doc",
+    "competition": "NOIP",
+    "year": 2001,
+    "stage": null,
+    "title": "NOIP2001提高组初赛(Pascal)及参考答案",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2001/NOIP2001普及组初赛(Basic).pdf",
+    "competition": "NOIP",
+    "year": 2001,
+    "stage": null,
+    "title": "NOIP2001普及组初赛(Basic)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2001/NOIP2001普及组初赛(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2001,
+    "stage": null,
+    "title": "NOIP2001普及组初赛(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2002/NOIP2002提高组初赛(Basic).pdf",
+    "competition": "NOIP",
+    "year": 2002,
+    "stage": null,
+    "title": "NOIP2002提高组初赛(Basic)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2002/NOIP2002提高组初赛(Pascal)及参考答案.doc",
+    "competition": "NOIP",
+    "year": 2002,
+    "stage": null,
+    "title": "NOIP2002提高组初赛(Pascal)及参考答案",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2002/NOIP2002提高组复赛试题.pdf",
+    "competition": "NOIP",
+    "year": 2002,
+    "stage": null,
+    "title": "NOIP2002提高组复赛试题",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2002/NOIP2002普及组初赛(Basic).pdf",
+    "competition": "NOIP",
+    "year": 2002,
+    "stage": null,
+    "title": "NOIP2002普及组初赛(Basic)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2002/NOIP2002普及组初赛(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2002,
+    "stage": null,
+    "title": "NOIP2002普及组初赛(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2002/NOIP2002普及组复赛试题.pdf",
+    "competition": "NOIP",
+    "year": 2002,
+    "stage": null,
+    "title": "NOIP2002普及组复赛试题",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2003/NOIP2003提高组初赛(Basic).pdf",
+    "competition": "NOIP",
+    "year": 2003,
+    "stage": null,
+    "title": "NOIP2003提高组初赛(Basic)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2003/NOIP2003提高组初赛(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2003,
+    "stage": null,
+    "title": "NOIP2003提高组初赛(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2003/NOIP2003提高组初赛参考答案.doc",
+    "competition": "NOIP",
+    "year": 2003,
+    "stage": null,
+    "title": "NOIP2003提高组初赛参考答案",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2003/NOIP2003提高组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 2003,
+    "stage": null,
+    "title": "NOIP2003提高组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2003/NOIP2003普及组初赛(Basic).pdf",
+    "competition": "NOIP",
+    "year": 2003,
+    "stage": null,
+    "title": "NOIP2003普及组初赛(Basic)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2003/NOIP2003普及组初赛(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2003,
+    "stage": null,
+    "title": "NOIP2003普及组初赛(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2003/NOIP2003普及组初赛参考答案(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2003,
+    "stage": null,
+    "title": "NOIP2003普及组初赛参考答案(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2003/NOIP2003普及组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 2003,
+    "stage": null,
+    "title": "NOIP2003普及组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2004_C_Basic_Pascal/NOIP2004PreliminaryJunior(Basic)TestPaperAndAnswer.doc",
+    "competition": "NOIP",
+    "year": 2004,
+    "stage": null,
+    "title": "NOIP2004PreliminaryJunior(Basic)TestPaperAndAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2004_C_Basic_Pascal/NOIP2004PreliminaryJunior(C)TestPaperAndAnswer.doc",
+    "competition": "NOIP",
+    "year": 2004,
+    "stage": null,
+    "title": "NOIP2004PreliminaryJunior(C)TestPaperAndAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2004_C_Basic_Pascal/NOIP2004PreliminaryJunior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2004,
+    "stage": null,
+    "title": "NOIP2004PreliminaryJunior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2004_C_Basic_Pascal/NOIP2004PreliminaryJunior(Pascal)TestPaperAndAnswer.doc",
+    "competition": "NOIP",
+    "year": 2004,
+    "stage": null,
+    "title": "NOIP2004PreliminaryJunior(Pascal)TestPaperAndAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2004_C_Basic_Pascal/NOIP2004PreliminarySenior(Basic)TestPaperAndAnswer.doc",
+    "competition": "NOIP",
+    "year": 2004,
+    "stage": null,
+    "title": "NOIP2004PreliminarySenior(Basic)TestPaperAndAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2004_C_Basic_Pascal/NOIP2004PreliminarySenior(C)TestPaperAndAnswer.doc",
+    "competition": "NOIP",
+    "year": 2004,
+    "stage": null,
+    "title": "NOIP2004PreliminarySenior(C)TestPaperAndAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2004_C_Basic_Pascal/NOIP2004PreliminarySenior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2004,
+    "stage": null,
+    "title": "NOIP2004PreliminarySenior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2004_C_Basic_Pascal/NOIP2004PreliminarySenior(Pascal)TestPaperAndAnswer.doc",
+    "competition": "NOIP",
+    "year": 2004,
+    "stage": null,
+    "title": "NOIP2004PreliminarySenior(Pascal)TestPaperAndAnswer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2004/NOIP2004提高组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 2004,
+    "stage": null,
+    "title": "NOIP2004提高组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2004/NOIP2004普及组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 2004,
+    "stage": null,
+    "title": "NOIP2004普及组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2005_C_Pascal/NOIP2005PreliminaryJunior(C).pdf",
+    "competition": "NOIP",
+    "year": 2005,
+    "stage": null,
+    "title": "NOIP2005PreliminaryJunior(C)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2005_C_Pascal/NOIP2005PreliminaryJunior(C)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2005,
+    "stage": null,
+    "title": "NOIP2005PreliminaryJunior(C)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2005_C_Pascal/NOIP2005PreliminaryJunior(Pascal).pdf",
+    "competition": "NOIP",
+    "year": 2005,
+    "stage": null,
+    "title": "NOIP2005PreliminaryJunior(Pascal)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2005_C_Pascal/NOIP2005PreliminarySenior(C).pdf",
+    "competition": "NOIP",
+    "year": 2005,
+    "stage": null,
+    "title": "NOIP2005PreliminarySenior(C)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2005_C_Pascal/NOIP2005PreliminarySenior(Pascal).pdf",
+    "competition": "NOIP",
+    "year": 2005,
+    "stage": null,
+    "title": "NOIP2005PreliminarySenior(Pascal)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2005/NOIP2005提高组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 2005,
+    "stage": null,
+    "title": "NOIP2005提高组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2005/NOIP2005普及组复赛试题.docx",
+    "competition": "NOIP",
+    "year": 2005,
+    "stage": null,
+    "title": "NOIP2005普及组复赛试题",
+    "format": "docx"
+  },
+  {
+    "path": "NOIP/Preliminary/2006_C_CPP_Pascal/NOIP2006PreliminaryJunior(C)Answer.pdf",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006PreliminaryJunior(C)Answer",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2006_C_CPP_Pascal/NOIP2006PreliminaryJunior(C)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006PreliminaryJunior(C)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2006_C_CPP_Pascal/NOIP2006PreliminaryJunior(C++)Answer.pdf",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006PreliminaryJunior(C++)Answer",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2006_C_CPP_Pascal/NOIP2006PreliminaryJunior(C++)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006PreliminaryJunior(C++)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2006_C_CPP_Pascal/NOIP2006PreliminaryJunior(Pascal).pdf",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006PreliminaryJunior(Pascal)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2006_C_CPP_Pascal/NOIP2006PreliminaryJunior(Pascal)Answer.pdf",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006PreliminaryJunior(Pascal)Answer",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2006_C_CPP_Pascal/NOIP2006PreliminarySenior(C)Answer.pdf",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006PreliminarySenior(C)Answer",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2006_C_CPP_Pascal/NOIP2006PreliminarySenior(C)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006PreliminarySenior(C)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2006_C_CPP_Pascal/NOIP2006PreliminarySenior(C++)Answer.pdf",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006PreliminarySenior(C++)Answer",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2006_C_CPP_Pascal/NOIP2006PreliminarySenior(C++)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006PreliminarySenior(C++)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2006_C_CPP_Pascal/NOIP2006PreliminarySenior(Pascal).pdf",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006PreliminarySenior(Pascal)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2006_C_CPP_Pascal/NOIP2006PreliminarySenior(Pascal)Answer.pdf",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006PreliminarySenior(Pascal)Answer",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2006/NOIP2006提高组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006提高组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2006/NOIP2006普及组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 2006,
+    "stage": null,
+    "title": "NOIP2006普及组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2007/NOIP2007PreliminaryJunior(C)Answer.doc",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007PreliminaryJunior(C)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2007/NOIP2007PreliminaryJunior(C)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007PreliminaryJunior(C)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2007/NOIP2007PreliminaryJunior(C++)Answer.doc",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007PreliminaryJunior(C++)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2007/NOIP2007PreliminaryJunior(C++)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007PreliminaryJunior(C++)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2007/NOIP2007PreliminaryJunior(Pascal)Answer.doc",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007PreliminaryJunior(Pascal)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2007/NOIP2007PreliminarySenior(C)Answer.doc",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007PreliminarySenior(C)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2007/NOIP2007PreliminarySenior(C)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007PreliminarySenior(C)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2007/NOIP2007PreliminarySenior(C++)Answer.doc",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007PreliminarySenior(C++)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2007/NOIP2007PreliminarySenior(C++)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007PreliminarySenior(C++)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2007/NOIP2007PreliminarySenior(Pascal)Answer.doc",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007PreliminarySenior(Pascal)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2007/NOIP2007PreliminarySenior(Pascal)TestPaper.doc",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007PreliminarySenior(Pascal)TestPaper",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2007/NOIP2007提高组复赛试题.pdf",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007提高组复赛试题",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2007/NOIP2007普及组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 2007,
+    "stage": null,
+    "title": "NOIP2007普及组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2008/NOIP2008PreliminaryJunior(C).doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008PreliminaryJunior(C)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2008/NOIP2008PreliminaryJunior(C)Answer.doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008PreliminaryJunior(C)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2008/NOIP2008PreliminaryJunior(C++).doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008PreliminaryJunior(C++)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2008/NOIP2008PreliminaryJunior(C++)Answer.doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008PreliminaryJunior(C++)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2008/NOIP2008PreliminaryJunior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008PreliminaryJunior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2008/NOIP2008PreliminaryJunior(Pascal)Answer.doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008PreliminaryJunior(Pascal)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2008/NOIP2008PreliminarySenior(C).doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008PreliminarySenior(C)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2008/NOIP2008PreliminarySenior(C)Answer.doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008PreliminarySenior(C)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2008/NOIP2008PreliminarySenior(C++).doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008PreliminarySenior(C++)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2008/NOIP2008PreliminarySenior(C++)Answer.doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008PreliminarySenior(C++)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2008/NOIP2008PreliminarySenior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008PreliminarySenior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2008/NOIP2008PreliminarySenior(Pascal)Answer.doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008PreliminarySenior(Pascal)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2008/NOIP2008提高组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008提高组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2008/NOIP2008普及组复赛试题.doc",
+    "competition": "NOIP",
+    "year": 2008,
+    "stage": null,
+    "title": "NOIP2008普及组复赛试题",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2009/NOIP2009PreliminaryJunior(C).doc",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "NOIP2009PreliminaryJunior(C)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2009/NOIP2009PreliminaryJunior(C)Answer.doc",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "NOIP2009PreliminaryJunior(C)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2009/NOIP2009PreliminaryJunior(C++).doc",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "NOIP2009PreliminaryJunior(C++)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2009/NOIP2009PreliminaryJunior(C++)Answer.doc",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "NOIP2009PreliminaryJunior(C++)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2009/NOIP2009PreliminaryJunior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "NOIP2009PreliminaryJunior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2009/NOIP2009PreliminaryJunior(Pascal)Answer.doc",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "NOIP2009PreliminaryJunior(Pascal)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2009/NOIP2009PreliminarySenior(C).doc",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "NOIP2009PreliminarySenior(C)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2009/NOIP2009PreliminarySenior(C)Answer.doc",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "NOIP2009PreliminarySenior(C)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2009/NOIP2009PreliminarySenior(C++).doc",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "NOIP2009PreliminarySenior(C++)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2009/NOIP2009PreliminarySenior(C++)Answer.doc",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "NOIP2009PreliminarySenior(C++)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2009/NOIP2009PreliminarySenior(Pascal).doc",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "NOIP2009PreliminarySenior(Pascal)",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2009/NOIP2009PreliminarySenior(Pascal)Answer.doc",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "NOIP2009PreliminarySenior(Pascal)Answer",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Final/NOIP2009/Problems_2009NOIP_Junior.pdf",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "Problems 2009NOIP Junior",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2009/Problems_2009NOIP_Senior.pdf",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": null,
+    "title": "Problems 2009NOIP Senior",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2009/solution/NOIP2009JuniorSolution.docx",
+    "competition": "NOIP",
+    "year": 2009,
+    "stage": "solution",
+    "title": "NOIP2009JuniorSolution",
+    "format": "docx"
+  },
+  {
+    "path": "NOIP/Final/NOIP2010/NOIP2010junior.pdf",
+    "competition": "NOIP",
+    "year": 2010,
+    "stage": null,
+    "title": "NOIP2010junior",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2010/NOIP2010senior.pdf",
+    "competition": "NOIP",
+    "year": 2010,
+    "stage": null,
+    "title": "NOIP2010senior",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2010/NOIP2010提高组初赛(C++)及参考答案.pdf",
+    "competition": "NOIP",
+    "year": 2010,
+    "stage": null,
+    "title": "NOIP2010提高组初赛(C++)及参考答案",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2010/NOIP2010普及组初赛(C++)及参考答案.pdf",
+    "competition": "NOIP",
+    "year": 2010,
+    "stage": null,
+    "title": "NOIP2010普及组初赛(C++)及参考答案",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2010/NOIP2010普及组初赛(Pascal)及参考答案.pdf",
+    "competition": "NOIP",
+    "year": 2010,
+    "stage": null,
+    "title": "NOIP2010普及组初赛(Pascal)及参考答案",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2011/NOIP2011提高组复赛day1.pdf",
+    "competition": "NOIP",
+    "year": 2011,
+    "stage": null,
+    "title": "NOIP2011提高组复赛day1",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2011/NOIP2011提高组复赛day2.pdf",
+    "competition": "NOIP",
+    "year": 2011,
+    "stage": null,
+    "title": "NOIP2011提高组复赛day2",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2011/NOIP2011普及组复赛.pdf",
+    "competition": "NOIP",
+    "year": 2011,
+    "stage": null,
+    "title": "NOIP2011普及组复赛",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2011/noip2011hj_c.pdf",
+    "competition": "NOIP",
+    "year": 2011,
+    "stage": null,
+    "title": "noip2011hj c",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2011/noip2011hj_cpp.pdf",
+    "competition": "NOIP",
+    "year": 2011,
+    "stage": null,
+    "title": "noip2011hj cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2011/noip2011hj_sol_c.pdf",
+    "competition": "NOIP",
+    "year": 2011,
+    "stage": null,
+    "title": "noip2011hj sol c",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2011/noip2011hj_sol_cpp.pdf",
+    "competition": "NOIP",
+    "year": 2011,
+    "stage": null,
+    "title": "noip2011hj sol cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2011/noip2011hs_c.pdf",
+    "competition": "NOIP",
+    "year": 2011,
+    "stage": null,
+    "title": "noip2011hs c",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2011/noip2011hs_cpp.pdf",
+    "competition": "NOIP",
+    "year": 2011,
+    "stage": null,
+    "title": "noip2011hs cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2011/noip2011hs_sol_c.pdf",
+    "competition": "NOIP",
+    "year": 2011,
+    "stage": null,
+    "title": "noip2011hs sol c",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2011/noip2011hs_sol_cpp.pdf",
+    "competition": "NOIP",
+    "year": 2011,
+    "stage": null,
+    "title": "noip2011hs sol cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2012/NOIP2012提高组复赛day1.pdf",
+    "competition": "NOIP",
+    "year": 2012,
+    "stage": null,
+    "title": "NOIP2012提高组复赛day1",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2012/NOIP2012提高组复赛day2.pdf",
+    "competition": "NOIP",
+    "year": 2012,
+    "stage": null,
+    "title": "NOIP2012提高组复赛day2",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2012/NOIP2012普及组复赛.pdf",
+    "competition": "NOIP",
+    "year": 2012,
+    "stage": null,
+    "title": "NOIP2012普及组复赛",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2012/noip2012hj_cpp.pdf",
+    "competition": "NOIP",
+    "year": 2012,
+    "stage": null,
+    "title": "noip2012hj cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2012/noip2012hj_sol.pdf",
+    "competition": "NOIP",
+    "year": 2012,
+    "stage": null,
+    "title": "noip2012hj sol",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2012/noip2012hs_cpp.pdf",
+    "competition": "NOIP",
+    "year": 2012,
+    "stage": null,
+    "title": "noip2012hs cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2012/noip2012hs_sol.pdf",
+    "competition": "NOIP",
+    "year": 2012,
+    "stage": null,
+    "title": "noip2012hs sol",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2013/NOIP2013Junior(C)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2013,
+    "stage": null,
+    "title": "NOIP2013Junior(C)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2013/NOIP2013Junior(Pascal)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2013,
+    "stage": null,
+    "title": "NOIP2013Junior(Pascal)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2013/NOIP2013Senior(C)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2013,
+    "stage": null,
+    "title": "NOIP2013Senior(C)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2013/NOIP2013Senior(Pascal)TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2013,
+    "stage": null,
+    "title": "NOIP2013Senior(Pascal)TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2013/NOIP2013提高组复赛 day1.pdf",
+    "competition": "NOIP",
+    "year": 2013,
+    "stage": null,
+    "title": "NOIP2013提高组复赛 day1",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2013/NOIP2013提高组复赛 day2.pdf",
+    "competition": "NOIP",
+    "year": 2013,
+    "stage": null,
+    "title": "NOIP2013提高组复赛 day2",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2013/NOIP2013普及组复赛.pdf",
+    "competition": "NOIP",
+    "year": 2013,
+    "stage": null,
+    "title": "NOIP2013普及组复赛",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2013/NOIP2013题目勘误.doc",
+    "competition": "NOIP",
+    "year": 2013,
+    "stage": null,
+    "title": "NOIP2013题目勘误",
+    "format": "doc"
+  },
+  {
+    "path": "NOIP/Preliminary/2013/noip2013hj_cpp.pdf",
+    "competition": "NOIP",
+    "year": 2013,
+    "stage": null,
+    "title": "noip2013hj cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2013/noip2013hj_sol.pdf",
+    "competition": "NOIP",
+    "year": 2013,
+    "stage": null,
+    "title": "noip2013hj sol",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2013/noip2013hs_cpp.pdf",
+    "competition": "NOIP",
+    "year": 2013,
+    "stage": null,
+    "title": "noip2013hs cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2013/noip2013hs_sol.pdf",
+    "competition": "NOIP",
+    "year": 2013,
+    "stage": null,
+    "title": "noip2013hs sol",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2014/NOIP2014提高组复赛试题 day1.pdf",
+    "competition": "NOIP",
+    "year": 2014,
+    "stage": null,
+    "title": "NOIP2014提高组复赛试题 day1",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2014/NOIP2014提高组复赛试题 day2.pdf",
+    "competition": "NOIP",
+    "year": 2014,
+    "stage": null,
+    "title": "NOIP2014提高组复赛试题 day2",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2014/NOIP2014普及组复赛试题.pdf",
+    "competition": "NOIP",
+    "year": 2014,
+    "stage": null,
+    "title": "NOIP2014普及组复赛试题",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2014/noip2014hj_cpp.pdf",
+    "competition": "NOIP",
+    "year": 2014,
+    "stage": null,
+    "title": "noip2014hj cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2014/noip2014hj_sol.pdf",
+    "competition": "NOIP",
+    "year": 2014,
+    "stage": null,
+    "title": "noip2014hj sol",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2014/noip2014hs_cpp.pdf",
+    "competition": "NOIP",
+    "year": 2014,
+    "stage": null,
+    "title": "noip2014hs cpp",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2014/noip2014hs_sol.pdf",
+    "competition": "NOIP",
+    "year": 2014,
+    "stage": null,
+    "title": "noip2014hs sol",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2015/NOIP2015提高组复赛试题 day1.pdf",
+    "competition": "NOIP",
+    "year": 2015,
+    "stage": null,
+    "title": "NOIP2015提高组复赛试题 day1",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2015/NOIP2015提高组复赛试题 day2.pdf",
+    "competition": "NOIP",
+    "year": 2015,
+    "stage": null,
+    "title": "NOIP2015提高组复赛试题 day2",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2015/NOIP2015普及组复赛试题.pdf",
+    "competition": "NOIP",
+    "year": 2015,
+    "stage": null,
+    "title": "NOIP2015普及组复赛试题",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2015/noip2015hs_sol.pdf",
+    "competition": "NOIP",
+    "year": 2015,
+    "stage": null,
+    "title": "noip2015hs sol",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2015/noip2015提高组初赛C++.pdf",
+    "competition": "NOIP",
+    "year": 2015,
+    "stage": null,
+    "title": "noip2015提高组初赛C++",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2015/noip2015普及组初赛C++.pdf",
+    "competition": "NOIP",
+    "year": 2015,
+    "stage": null,
+    "title": "noip2015普及组初赛C++",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2015/noip2015普及组初赛参考答案.pdf",
+    "competition": "NOIP",
+    "year": 2015,
+    "stage": null,
+    "title": "noip2015普及组初赛参考答案",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2016/noip2016fj.pdf",
+    "competition": "NOIP",
+    "year": 2016,
+    "stage": null,
+    "title": "noip2016fj",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2016/noip2016fs1.pdf",
+    "competition": "NOIP",
+    "year": 2016,
+    "stage": null,
+    "title": "noip2016fs1",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2016/noip2016fs2.pdf",
+    "competition": "NOIP",
+    "year": 2016,
+    "stage": null,
+    "title": "noip2016fs2",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2016/noip2016提高组初赛C++.pdf",
+    "competition": "NOIP",
+    "year": 2016,
+    "stage": null,
+    "title": "noip2016提高组初赛C++",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2016/noip2016提高组初赛参考答案.pdf",
+    "competition": "NOIP",
+    "year": 2016,
+    "stage": null,
+    "title": "noip2016提高组初赛参考答案",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2016/noip2016普及组初赛C++.pdf",
+    "competition": "NOIP",
+    "year": 2016,
+    "stage": null,
+    "title": "noip2016普及组初赛C++",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2016/noip2016普及组初赛参考答案.pdf",
+    "competition": "NOIP",
+    "year": 2016,
+    "stage": null,
+    "title": "noip2016普及组初赛参考答案",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2017/noip2017提高组 day1.pdf",
+    "competition": "NOIP",
+    "year": 2017,
+    "stage": null,
+    "title": "noip2017提高组 day1",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2017/noip2017提高组 day2.pdf",
+    "competition": "NOIP",
+    "year": 2017,
+    "stage": null,
+    "title": "noip2017提高组 day2",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2017/noip2017提高组初赛C++.pdf",
+    "competition": "NOIP",
+    "year": 2017,
+    "stage": null,
+    "title": "noip2017提高组初赛C++",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2017/noip2017提高组初赛参考答案.pdf",
+    "competition": "NOIP",
+    "year": 2017,
+    "stage": null,
+    "title": "noip2017提高组初赛参考答案",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2017/noip2017普及组.pdf",
+    "competition": "NOIP",
+    "year": 2017,
+    "stage": null,
+    "title": "noip2017普及组",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2017/noip2017普及组初赛C++.pdf",
+    "competition": "NOIP",
+    "year": 2017,
+    "stage": null,
+    "title": "noip2017普及组初赛C++",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2017/noip2017普及组初赛参考答案.pdf",
+    "competition": "NOIP",
+    "year": 2017,
+    "stage": null,
+    "title": "noip2017普及组初赛参考答案",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2018/NOIP2018FinalJuniorTestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2018,
+    "stage": null,
+    "title": "NOIP2018FinalJuniorTestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2018/NOIP2018FinalSeniorDay1TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2018,
+    "stage": null,
+    "title": "NOIP2018FinalSeniorDay1TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2018/NOIP2018FinalSeniorDay2TestPaper.pdf",
+    "competition": "NOIP",
+    "year": 2018,
+    "stage": null,
+    "title": "NOIP2018FinalSeniorDay2TestPaper",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2018/NOIP2018提高组初赛参考答案.pdf",
+    "competition": "NOIP",
+    "year": 2018,
+    "stage": null,
+    "title": "NOIP2018提高组初赛参考答案",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2018/NOIP2018提高组初赛试题(C++).pdf",
+    "competition": "NOIP",
+    "year": 2018,
+    "stage": null,
+    "title": "NOIP2018提高组初赛试题(C++)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2018/NOIP2018普及组初赛参考答案.pdf",
+    "competition": "NOIP",
+    "year": 2018,
+    "stage": null,
+    "title": "NOIP2018普及组初赛参考答案",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Preliminary/2018/NOIP2018普及组初赛试题(C++).pdf",
+    "competition": "NOIP",
+    "year": 2018,
+    "stage": null,
+    "title": "NOIP2018普及组初赛试题(C++)",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2020/NOIP 2020在线模拟赛试题与题解.pdf",
+    "competition": "NOIP",
+    "year": 2020,
+    "stage": null,
+    "title": "NOIP 2020在线模拟赛试题与题解",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2020/NOIP 2020正式赛.pdf",
+    "competition": "NOIP",
+    "year": 2020,
+    "stage": null,
+    "title": "NOIP 2020正式赛",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2021/noip2021.pdf",
+    "competition": "NOIP",
+    "year": 2021,
+    "stage": null,
+    "title": "noip2021",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2022/2022 CCF NOIP 正式赛试题.pdf",
+    "competition": "NOIP",
+    "year": 2022,
+    "stage": null,
+    "title": "2022 CCF NOIP 正式赛试题",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2023/NOIP2023.pdf",
+    "competition": "NOIP",
+    "year": 2023,
+    "stage": null,
+    "title": "NOIP2023",
+    "format": "pdf"
+  },
+  {
+    "path": "NOIP/Final/NOIP2024/noip2024.pdf",
+    "competition": "NOIP",
+    "year": 2024,
+    "stage": null,
+    "title": "noip2024",
+    "format": "pdf"
+  },
+  {
+    "path": "NOI大纲-2025年修订版.pdf",
+    "competition": null,
+    "year": 2025,
+    "stage": null,
+    "title": "NOI大纲 2025年修订版",
+    "format": "pdf"
+  },
+  {
+    "path": "学习资料/CSP-JS初赛通用答题纸.docx",
+    "competition": "学习资料",
+    "year": null,
+    "stage": null,
+    "title": "CSP JS初赛通用答题纸",
+    "format": "docx"
+  },
+  {
+    "path": "学习资料/全国青少年信息学（计算机）奥林匹克分区联赛试题解析（中学）-南京大学出版社.pdf",
+    "competition": "学习资料",
+    "year": null,
+    "stage": null,
+    "title": "全国青少年信息学（计算机）奥林匹克分区联赛试题解析（中学） 南京大学出版社",
+    "format": "pdf"
+  },
+  {
+    "path": "学习资料/NOI大纲-2021年.pdf",
+    "competition": "学习资料",
+    "year": 2021,
+    "stage": null,
+    "title": "NOI大纲 2021年",
+    "format": "pdf"
+  },
+  {
+    "path": "学习资料/NOI大纲-2023年修订版.pdf",
+    "competition": "学习资料",
+    "year": 2023,
+    "stage": null,
+    "title": "NOI大纲 2023年修订版",
+    "format": "pdf"
+  }
+]
